@@ -2,7 +2,7 @@
 - 👀 I’m interested in automatization
 - 🌱 I’m currently learning arduino
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me rail.galimyanov@mail.ru
 
 <!---
 gjrail/gjrail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
